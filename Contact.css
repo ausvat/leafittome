@@ -146,16 +146,27 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 968px;
+  }
+
   .u-section-1 .u-layout-cell-1 {
     min-height: 241px;
   }
 
   .u-section-1 .u-container-layout-1 {
-    padding-left: 0;
-    padding-right: 0;
+    padding: 28px 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 2px;
   }
 
   .u-section-1 .u-text-2 {
     margin-left: 53px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin: 21px -30px -2px;
   }
 }

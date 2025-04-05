@@ -121,19 +121,20 @@
 
 @media (max-width: 575px) {
    .u-section-1 {
-    min-height: 593px;
+    min-height: 1966px;
   }
 
   .u-section-1 .u-image-1 {
-    width: 340px;
-    height: 340px;
-    margin-right: calc(((100% - 340px) / 2));
+    width: 428px;
+    height: 428px;
+    margin-top: -640px;
+    margin-right: auto;
   }
 
   .u-section-1 .u-group-1 {
     min-height: 603px;
     width: 340px;
-    margin-top: 78px;
+    margin-top: 115px;
     margin-left: auto;
   }
 } .u-section-2 {
